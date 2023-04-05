@@ -1,0 +1,7 @@
+# Project exclude paths
+/contacts/contacts.client/target/
+/contacts/contacts.server/target/
+/contacts/contacts.server.app.dev/target/
+/contacts/contacts.shared/target/
+/contacts/contacts.ui.html/target/
+/contacts/contacts.ui.html.app.dev/target/
